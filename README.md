@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Sports Data Analyser backend development.
+- 🌱 I’m currently learning Spring Rest Docs, React
+
 <!--
 **lalankeba/lalankeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
