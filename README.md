@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sports Data Analyzer**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 💬 Ask me about **Java, Spring, Spring Boot**
 
@@ -11,9 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lalankeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lalankeba" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lalankeathauda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalankeathauda" height="30" width="40" /></a>
-<a href="https://medium.com/@lalankeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lalankeba" height="30" width="40" /></a>
+<a href="https://codepen.io/lalankeba" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lalankeba" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/lalankeathauda" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalankeathauda" height="30" width="40" />
+</a>
+<a href="https://medium.com/@lalankeba" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lalankeba" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
